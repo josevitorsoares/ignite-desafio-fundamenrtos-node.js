@@ -1,0 +1,22 @@
+{
+  "name": "desafio-01",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-generate": "^4.2.8",
+    "csv-parse": "^5.5.0",
+    "dayjs": "^1.11.9",
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.9"
+  }
+}
